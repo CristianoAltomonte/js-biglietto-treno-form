@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(185, 20, 80, 1);
+}
+
+#main-container {
+    left      : 50%;
+    top       : 50%;
+    position  : absolute;
+    transform : translate(-50%, -50%);
+}
+
+  
